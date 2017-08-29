@@ -1,0 +1,11 @@
+# basic options
+title: Yale Med Anatomy Museum
+author: Tejas Sathe
+email: your-email@domain.com
+description: Digital Museum of student-created art for Yale anatomy course
+twitter_username: jekyllrb
+github_username:  tsathe
+
+# Build settings
+markdown: kramdown
+theme: minima
